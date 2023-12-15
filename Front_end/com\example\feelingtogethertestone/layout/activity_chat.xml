@@ -54,7 +54,8 @@
             android:layout_height="match_parent"
             android:src="@mipmap/help"
             android:layout_marginStart="10dp"
-            tools:ignore="NestedWeights" />
+            tools:ignore="NestedWeights" 
+            />
         <ImageView
             android:id="@+id/config"
             android:layout_width="0dp"
